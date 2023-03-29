@@ -1,5 +1,5 @@
 {
-  "name": "triangle-ts",
+  "name": "triangle-typescript",
   "version": "1.0.0",
   "description": "Triangle type rest api for Quality assurance",
   "main": "app.ts",
