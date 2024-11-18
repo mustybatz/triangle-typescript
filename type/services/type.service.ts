@@ -12,7 +12,7 @@ class TypeService {
 			triangle.sideB != triangle.sideC) {
 			return "SCALENE";
 		}
-		return "ISOSCELES";
+		return "ISOCELES";
 	}
 }
 
